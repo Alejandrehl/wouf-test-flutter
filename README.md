@@ -1,16 +1,4 @@
-# wouf_test_flutter
+# 🐾 Wouf Test Flutter - 3. 📍 GPS y Localización
 
-A new Flutter project.
+Escribe un código en Dart usando el paquete [geolocator](https://pub.dev/packages/geolocator) que obtenga la ubicación actual del dispositivo y muestre la latitud y longitud en la consola.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
